@@ -1,0 +1,19 @@
+{
+  "name": "migracode-express-workshop-2",
+  "version": "1.0.0",
+  "description": "start",
+  "main": "utils.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABDO-ALT/migracode-express-workshop-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABDO-ALT/migracode-express-workshop-2/issues"
+  },
+  "homepage": "https://github.com/ABDO-ALT/migracode-express-workshop-2#readme"
+}
