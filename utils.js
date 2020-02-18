@@ -19,7 +19,7 @@ function checkBookingExists (id) {
  * @param {object} booking A booking object
  */
 function createBooking (booking) {
-  if (checkBookingExists(bookin.id)){
+  if (checkBookingExists(booking.id)){
     throw new Error(`Booking with id ${booking.id} already exists`)
   }
 
